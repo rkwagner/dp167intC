@@ -1,3 +1,5 @@
+//Grade report project.
+
 #include <stdio.h>
 #include <stdlib.h>
 
