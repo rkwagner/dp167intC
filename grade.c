@@ -1,4 +1,7 @@
 //Grade report project.
+//Author:       Ryan Wagner
+//Date:         August 24, 2014
+//Description:  Grade report project for reddit.com/dailyprogrammer #167.
 
 #include <stdio.h>
 #include <stdlib.h>
